@@ -1,0 +1,64 @@
+body {
+  background-color: silver;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  background-color: white;
+  color: darkgray;
+  padding: 2%;
+}
+p {
+  padding: 2px;
+  margin: 0;
+}
+
+.zero {
+  background-color: hsla(340, 84%, 60%, 1);
+}
+.one {
+  background-color: hsla(340, 84%, 65%, 1);
+}
+
+.two {
+  background-color: hsla(340, 84%, 70%, 1);
+}
+
+.three {
+  background-color: hsla(340, 84%, 75%, 1);
+}
+.four {
+  background-color: hsla(340, 84%, 80%, 1);
+}
+
+.five {
+  background-color: hsla(340, 84%, 85%, 1);
+}
+
+.six {
+  background-color: hsla(340, 84%, 90%, 1);
+}
+.seven {
+  background-color: rgb(0, 187, 136);
+}
+.eight {
+  background-color: hsl(202, 82.4%, 90%);
+}
+.nine {
+  background-color: hsl(202, 82.4%, 85%);
+}
+.ten {
+    background-color: hsl(202, 82.4%, 80%);
+}
+.eleven {
+    background-color: hsl(202, 82.4%, 75%);
+}
+.twelve {
+    background-color: hsl(202, 82.4%, 70%);
+}
+.thirteen {
+    background-color: hsl(202, 82.4%, 65%);
+}
+.fourteen {
+    background-color: hsl(202, 82.4%, 60%);
+}

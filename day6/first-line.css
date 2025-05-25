@@ -1,0 +1,13 @@
+p.intro:first-line {
+  font-weight: bold;
+}
+
+p.intro:first-letter {
+  font-size: 2rem;
+}
+
+p.history:first-letter{
+    font-size:2rem;
+    font-weight:bold;
+    font-style:italic;
+}
